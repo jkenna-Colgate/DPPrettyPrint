@@ -59,7 +59,6 @@ public class PrettyPrint {
     public static List<Integer> greedy_print(int[] lengths, int L, SlackFunctor sf) {
 
         /*  Greedy implementation
-            provided in starter file
 
             It just places words on lines and inserts line breaks whenever the length
             would exceed L.
